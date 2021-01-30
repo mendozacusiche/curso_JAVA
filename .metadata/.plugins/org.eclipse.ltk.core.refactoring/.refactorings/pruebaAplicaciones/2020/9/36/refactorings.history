@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copiar elemento «Calculadora.java» a «Caluculadora/src»&#x0A;- Proyecto original: «pruebaAplicaciones»&#x0A;- Destination element: &apos;Caluculadora/src&apos;&#x0A;- Elemento original: «mis_applets.Calculadora.java»" description="Copiar unidad de compilacion" destination="=Caluculadora/src" element1="/src&lt;mis_applets{Calculadora.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1599227695381" units="1" version="1.0"/>
+</session>

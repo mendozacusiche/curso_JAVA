@@ -1,0 +1,138 @@
+import java.util.*;
+
+public class Prueba_TreeSet {
+
+	public static void main(String[] args) {
+
+		
+
+		/*TreeSet<String> OrdPersonas = new TreeSet<String>();
+		
+		
+		OrdPersonas.add("Sandra");
+		OrdPersonas.add("Diana");
+		OrdPersonas.add("Jose");
+		OrdPersonas.add("Agustina");
+		OrdPersonas.add("Peron");
+		OrdPersonas.add("Abelardo");
+		
+		
+		for(String s: OrdPersonas) {
+			
+			System.out.println(s);
+			
+		}*/
+		
+		
+		Articulo primero = new Articulo(1, "Primer Articulo");
+		Articulo segundo = new Articulo(2, "segundo Articulo");
+		Articulo tercero = new Articulo(3, "tercero Articulo");
+		
+		
+		
+		TreeSet<Articulo>ordeArticulos = new TreeSet<Articulo>();
+		
+		ordeArticulos.add(tercero);
+		ordeArticulos.add(primero);
+		ordeArticulos.add(segundo);
+		
+		
+		
+	}
+
+}
+
+class Articulo implements Comparable<Articulo>{
+	
+	public Articulo(int num, String des) {
+		
+		
+		numero_articulo = num;
+		
+		descripcion = des;
+		
+		
+	}
+	
+
+	
+	public int compareTo(Articulo o) {
+		// TODO Auto-generated method stub
+		return numero_articulo -o.numero_articulo;
+	}
+	
+	
+	public String getDescripcion() {
+		
+		return descripcion;
+	}
+	
+	
+	private int numero_articulo;
+	
+	private String descripcion;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+import java.util.*;
+
+public class Prueba_TreeSet {
+
+	public static void main(String[] args) {
+
+		
+
+		TreeSet<String> OrdPersonas = new TreeSet<String>();
+		
+		
+		OrdPersonas.add("Sandra");
+		OrdPersonas.add("Diana");
+		OrdPersonas.add("Jose");
+		OrdPersonas.add("Agustina");
+		OrdPersonas.add("Peron");
+		OrdPersonas.add("Abelardo");
+		
+		
+	}
+
+}

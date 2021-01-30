@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+/home/abelardo/Curso de Java/.metadata/.plugins/org.eclipse.jdt.core
+3484603076.index
+3352832623.index
+2830428001.index
+2595849164.index
+1252947361.index
+1529967302.index
+1404753492.index
+3116858000.index
+217906737.index
+1344080150.index
+1672506568.index
+1827181813.index
+3608279333.index
+4134420440.index

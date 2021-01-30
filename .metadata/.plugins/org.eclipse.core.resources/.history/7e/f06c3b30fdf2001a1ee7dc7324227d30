@@ -1,0 +1,93 @@
+
+import java.util.*;
+
+public class PruebaMapas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		HashMap<String, Empleado> personal = new HashMap<String , Empleado>();
+		
+		
+		personal.put("1", new Empleado("abelardo"));
+		personal.put("2", new Empleado("abel"));
+		personal.put("3", new Empleado("ana"));
+		personal.put("4", new Empleado("sofi"));
+		personal.put("5", new Empleado("angel"));
+		personal.put("6", new Empleado("eduardo"));
+		
+
+	}
+
+}
+
+
+class Empleado{
+	
+	
+	public Empleado(String nombre) {
+		
+		
+		this.nombre = nombre;
+		
+		sueldo =2000;
+	}
+
+	
+	public String toString() {
+		
+		return "[Nombre= "+nombre+", sueldo= "+ sueldo+"]";
+	}
+	
+	
+	
+	private String nombre;
+	
+	private double sueldo ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

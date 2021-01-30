@@ -1,0 +1,17 @@
+
+public class UsoLibro {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		Libro libro1 = new Libro("P en Java", "Abelardo", 25);
+		
+		Libro libro2 = new Libro("P en Java", "Abelardo", 25);
+		
+		
+		
+
+	}
+
+}

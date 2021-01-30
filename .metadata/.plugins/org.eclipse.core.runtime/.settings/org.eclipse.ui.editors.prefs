@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector_stateMask=262144
+org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkReturnTypeDetector_stateMask=262144
+org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkSuperImplementationDetector_stateMask=262144
+org.eclipse.jdt.internal.ui.propertiesfileeditor.PropertyKeyHyperlinkDetector_stateMask=262144
+org.eclipse.wst.xml.ui.internal.hyperlink.XMLHyperlinkDetector_stateMask=262144
+overviewRuler_migration=migrated_3.1

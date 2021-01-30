@@ -1,0 +1,16 @@
+
+public class Cliente {
+	
+
+	public cliente (String nombre, String n_cuenta, double saldo) {
+	
+	
+	
+	
+          }
+
+	private String nombre;
+	private String n_cuenta;
+	private double saldo;
+
+}

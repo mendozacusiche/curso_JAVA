@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Redenominar tipo «mis_applets.Hola_Alumonos» como «Hola_Alumnos»&#x0A;- Proyecto original: «Aplicaciones»&#x0A;- Elemento original: «mis_applets.Hola_Alumonos»&#x0A;- Elemento redenominado: «mis_applets.Hola_Alumnos»&#x0A;- Actualizar referencias a elemento refactorizado&#x0A;- Actualizar apariciones textuales en comentarios y cadenas de texto" description="Redenominar tipo «Hola_Alumonos»" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;mis_applets{Hola_Alumonos.java[Hola_Alumonos" matchStrategy="1" name="Hola_Alumnos" qualified="false" references="true" similarDeclarations="false" stamp="1599175473773" textual="false" version="1.0"/>
+</session>
