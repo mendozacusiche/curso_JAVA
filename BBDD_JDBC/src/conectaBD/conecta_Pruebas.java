@@ -13,7 +13,7 @@ public class conecta_Pruebas {
 			//
 			// 1. crea conexion
 			//http://localhost/phpmyadmin/tbl_sql.php?db=pruebas&table=productos
-			Connection miConexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/pruebas", "mroot", "Pass!1234");
+			Connection miConexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/pruebas", "root", "********");
 			
 			
 			//2.crear objeto statement
