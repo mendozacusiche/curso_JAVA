@@ -16,7 +16,7 @@ public class ConsultaPreparada {
 			
 			//1. CREAR CONEXION
 			
-			Connection miConexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/pruebas", "mroot", "Pass!1234");
+			Connection miConexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/pruebas", "root", "**********");
 	
 			PreparedStatement miSentencia=miConexion.prepareStatement("");
 			
