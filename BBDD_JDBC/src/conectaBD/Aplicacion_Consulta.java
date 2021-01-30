@@ -69,7 +69,7 @@ class Marco_Aplicacion extends JFrame {
 		
 	try {
 			
-			Connection miConexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/pruebas", "mroot", "Pass!1234");
+			Connection miConexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/pruebas", "root", "********");
 			
 			Statement miStatement = miConexion.createStatement();
 			
